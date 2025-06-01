@@ -1,0 +1,12 @@
+Poziom: 0, Profit: 0, Waga: 0, Granica: 100
+Poziom: 1, Profit: 20, Waga: 2, Granica: 100
+Poziom: 2, Profit: 50, Waga: 7, Granica: 100
+Poziom: 3, Profit: 85, Waga: 14, Granica: 100
+Poziom: 4, Profit: 97, Waga: 17, Granica: 100
+Poziom: 5, Profit: 100, Waga: 18, Granica: 100
+Poziom: 5, Profit: 97, Waga: 17, Granica: 97
+Poziom: 4, Profit: 85, Waga: 14, Granica: 88
+Poziom: 3, Profit: 50, Waga: 7, Granica: 65
+Poziom: 2, Profit: 20, Waga: 2, Granica: 70
+Poziom: 1, Profit: 0, Waga: 0, Granica: 80
+Maksymalny zysk: 100
